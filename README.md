@@ -74,11 +74,7 @@ O site foi desenvolvido com foco em responsividade, utilizando:
 - [GitHub](https://github.com/IBrunooDev)
 - [LinkedIn](https://www.linkedin.com/in/brunocarus/?originalSubdomain=br)
 - [Instagram](https://www.instagram.com/ibrunoodev/)
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
+- 
 ---
 
 Desenvolvido com ❤️ por [Bruno Henrique](https://github.com/IBrunooDev) 
