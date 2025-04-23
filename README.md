@@ -1,10 +1,11 @@
-### <h1 align="center"> :computer: Web Site LinkTree :computer:</h1>
+### <h1 align="center"> :computer: Web Site Portfolio :computer:</h1>
 
 <p align="center">
  <a href="https://ibrunoodev.netlify.app/">Clique Aqui para ir ao Site</a><br/>
 </p>
 
-![image](https://github.com/user-attachments/assets/21ee3feb-f555-40b8-b428-b676e28781ce)
+![image](https://github.com/user-attachments/assets/473a4c57-ca40-4300-80b5-fa288a20173b)
+
 
 ## 📋 Sobre o Projeto
 
