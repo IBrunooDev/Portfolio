@@ -265,6 +265,8 @@ section h2 {
 
 .skill-card i,
 .typescript-icon,
+.bootstrap-icon,
+.sass-icon,
 .tailwind-icon,
 .nextjs-icon {
     font-size: clamp(2rem, 5vw, 3rem);
@@ -277,6 +279,8 @@ section h2 {
 
 .skill-card:hover i,
 .skill-card:hover .typescript-icon,
+.skill-card:hover .bootstrap-icon,
+.skill-card:hover .sass-icon,
 .skill-card:hover .tailwind-icon,
 .skill-card:hover .nextjs-icon {
     color: white;
